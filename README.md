@@ -1,0 +1,2 @@
+# idbo
+IndexedDB Observable Wrapper
